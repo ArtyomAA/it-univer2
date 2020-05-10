@@ -1,0 +1,42 @@
+body {
+  background: #f8fafc;
+}
+
+.app__logo {
+  background: #040303;
+  color: white;
+}
+
+.app__logo .title {
+  color: white;
+}
+
+.app__sidebar {
+  background: #040303;
+}
+
+.app__nav {
+  background: gray;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.app__nav .is-one-fifth {
+  position: relative;
+  top: 12%;
+}
+
+.app__nav > .search {
+  margin-top: 10px;
+  position: relative;
+}
+
+.app__nav > .search .type {
+  color: gray;
+  opacity: 0.5;
+}
+
+#chat {
+  margin-top: 10px;
+}
+
